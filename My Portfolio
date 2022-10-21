@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+              <h1>    <pre>                                   <b>This is my Portfolio</b>             </pre> </h1>                 
+    
+    <br/>
+    <img src="\WhatsApp Image 2022-10-21 at 8.04.30 PM.jpeg" height="400" alt="Profile Picture">
+    <p>Name :Mahek Jain</p>
+    
+    <p>Age :20</p>
+    
+    <p>Gender :Female</p>
+    <h2>    <pre>                                            <b>Education</b>             </pre> </h2>    
+    <h3>From Pre- Primary to Secondary Education</h3>
+    <br/>
+    <p>I have completed my pre-primary education till SSLC in Sacred Heart Convent School ,Hubbali.
+        
+
+    </p>
+    <br/>
+    <h3>Senior Secondary Stage</h3>
+    <br/>
+    <p> I have completed my 11th and 12th in Vidyaniketan PU Science College,Hubbali.
+        
+    </p>
+    <p> The courses opted by me were:
+        <ul>
+            <li>Physcis</li>
+            <li>Chemistry</li>
+            <li>Mathematics</li>
+            <li>Statistics</li>
+            <li>English</li>
+            <li>Hindi</li>
+        </ul>
+    
+</p>
+    <br/>
+    <h3>Under Graduation</h3>
+    <br/>
+    <p> I have completed my Graduation from KLE TECHNOLOGICAL INSTITUTION in Electronics and Communication domain.
+        
+    </p>
+    <h3>You can find my work on below platforms</h3>
+    <ul>
+        <li><a href="https://github.com/MahekJain0111" target="_main">Github</a></li>
+        <li><a href="https://www.linkedin.com/in/mahek-jain-520710247" target="_main">LinkedIn</a></li>
+        <li><a href="https://www.codechef.com/users/mahek01" target="_main">CodeChef</a></li>
+    </ul>
+    <h3>Contact Me @mahekjain120@gmail.com</h3>
+    
+    
+    
+    
+    
+
+</body>
+</html>
